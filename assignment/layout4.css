@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  padding: 10px 0;
+}
+
+.fixbar {
+  display: flex;
+  justify-content: space-around;
+}
+
+.fixbar a {
+  color: #f0f0f0;
+  text-decoration: none;
+  padding: 10px 15px;
+  transition: background-color 0.3s ease;
+}
+
+.fixbar a:hover {
+  background-color: #555;
+}
+
+main {
+  padding-top: 80px; /* Add padding to avoid content being overlapped by the fixed navbar */
+}
+
+/* Add some additional styles for demonstration purposes */
+main h1 {
+  text-align: center;
+}
+
+main p {
+  text-align: center;
+}

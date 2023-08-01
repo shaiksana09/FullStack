@@ -1,0 +1,5 @@
+3 -> https://github.com/shaiksana09/Hero_Vired---Assignments/blob/master/countsingulararr.java
+1 -> https://github.com/shaiksana09/Hero_Vired---Assignments/blob/master/cumulativemultiple.java
+2 -> https://github.com/shaiksana09/Hero_Vired---Assignments/blob/master/findmissnum.java
+6 -> https://github.com/shaiksana09/Hero_Vired---Assignments/blob/master/removeduplicates.java
+5 -> https://github.com/shaiksana09/Hero_Vired---Assignments/blob/master/mergeandsortlinkedlist.java

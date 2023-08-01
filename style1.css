@@ -1,0 +1,37 @@
+
+.header{
+    background-color: beige;
+    margin-bottom: 10px;
+    padding: 2px;
+    text-align: center;
+}
+.header1{
+    background-color: aliceblue;
+    margin-bottom: 10px;
+    padding: 2px;
+}
+.header2{
+    background-color: aqua;
+    margin-bottom: 10px;
+    padding: 2px;
+}
+.header3{
+    background-color: aquamarine;
+    margin-bottom: 10px;
+    padding: 2px;
+}
+/*text-align helps to align th etext either right, left, cenre*/
+/*align items: place the elements anywhere vertically*/
+/*justify content: place yor element anywhere horizontally*/
+.header4{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*margin-right: 4px;*/
+}
+.child1{
+    height: 300px;
+    width: 20%;
+    background-color: lightgreen;
+}
